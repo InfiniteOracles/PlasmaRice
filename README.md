@@ -57,8 +57,7 @@ oh-my-posh init fish --config {path-to-config}.json | source
 
 ## Application Launcher Setup
 
-- **Launcher:** Rofi with Dracula theme  
-  [Dracula Rofi Theme](https://github.com/dracula/rofi)
+- **Launcher:** Rofi [Dracula Theme](https://github.com/dracula/rofi)
 
 ### Install Rofi
 
