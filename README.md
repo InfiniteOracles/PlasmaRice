@@ -14,8 +14,7 @@ Documentation for installing my Plasma KDE rice setup.
 
 - **Terminal:** Alacritty
 - **Shell:** Fish
-- **Prompt Theme:** Oh My Posh (Dracula)  
-  [Dracula Oh My Posh Theme](https://draculatheme.com/oh-my-posh)
+- **Prompt Theme:** Oh My Posh [Dracula ](https://draculatheme.com/oh-my-posh)
 
 ### Install / Configure Instructions (Terminal)
 
