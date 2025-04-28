@@ -100,3 +100,8 @@ Replace the contents with the Dracula `.rasi` config.
 
 - Source: [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes)  
 - Config used: [talljoe.conf](https://github.com/chick2d/neofetch-themes/blob/main/normal/talljoe.conf)
+
+## Kde nvidia card fix 
+   ```bash
+   sudo pacman -S nvidia nvidia-utils nvidia-settings
+   ```
